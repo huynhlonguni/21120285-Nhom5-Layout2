@@ -1,0 +1,18 @@
+.cont {
+	height: 100%;
+	display: grid;
+	grid-gap: 1rem;
+	grid-template-rows: 1.2fr 8fr 0.8fr;
+}
+
+.main-cont {
+	display: grid;
+	grid-gap: 1rem;
+	grid-template-columns: 0.3fr 0.7fr;
+}
+
+.content-cont {
+	display: grid;
+	grid-gap: 1rem;
+	grid-template-rows: 0.33fr 0.67fr;
+}

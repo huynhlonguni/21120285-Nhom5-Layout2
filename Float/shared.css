@@ -1,0 +1,47 @@
+* {
+	font-family: Arial, sans-serif;
+}
+
+.grey-bg {
+	background-color: #c0c0c0;
+}
+
+html, body {
+	margin: 0;
+	height: 100%;
+}
+
+.va-text {
+	position: relative;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+.ha-text {
+	text-align: center;
+}
+
+.logo {
+	padding: 0.5rem;
+	padding-left: 2rem;
+	font-size: 2rem;
+}
+
+.sidebar {
+	font-size: 1.5rem;
+	padding-left: 1rem;
+}
+
+.header {
+	font-size: 2rem;
+}
+
+.body-area {
+	font-size: 2.5rem;
+}
+
+.footer {
+	font-size: 2rem;
+}
